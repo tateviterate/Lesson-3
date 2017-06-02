@@ -1,0 +1,16 @@
+body{
+    background: #E7E5E5;
+}
+div{
+    text-align: center;
+}
+.backgr{
+    background: #EBEBDD;
+    border: 1px solid #FAFADA;
+}
+select {
+    background: #000;
+    color: #fff;
+    width: 250px;
+    border: 1px solid #FAFADA;
+}
